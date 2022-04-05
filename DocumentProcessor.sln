@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ZipFolder", "ZipFolder\ZipFolder.vbproj", "{9DA0B3C9-C08B-4DDD-AE75-6F809B6CCC04}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PublishDocument", "PublishDocument\PublishDocument.vbproj", "{0C8218EC-0C3F-486E-AAB1-5089D86B56FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA0B3C9-C08B-4DDD-AE75-6F809B6CCC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA0B3C9-C08B-4DDD-AE75-6F809B6CCC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA0B3C9-C08B-4DDD-AE75-6F809B6CCC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA0B3C9-C08B-4DDD-AE75-6F809B6CCC04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8218EC-0C3F-486E-AAB1-5089D86B56FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8218EC-0C3F-486E-AAB1-5089D86B56FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8218EC-0C3F-486E-AAB1-5089D86B56FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8218EC-0C3F-486E-AAB1-5089D86B56FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

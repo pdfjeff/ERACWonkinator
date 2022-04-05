@@ -1,0 +1,9 @@
+C:\Adlib Express\Scripts\PublishDocument.exe
+C:\Adlib Express\Scripts\PublishDocument.pdb
+C:\Adlib Express\Scripts\PublishDocument.xml
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\PublishDocument\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\PublishDocument\obj\Debug\PublishDocument.Resources.resources
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\PublishDocument\obj\Debug\PublishDocument.vbproj.GenerateResource.Cache
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\PublishDocument\obj\Debug\PublishDocument.exe
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\PublishDocument\obj\Debug\PublishDocument.xml
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\PublishDocument\obj\Debug\PublishDocument.pdb

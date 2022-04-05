@@ -1,0 +1,13 @@
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\ZipFolder\bin\Debug\ZipFolder.exe
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\ZipFolder\bin\Debug\ZipFolder.pdb
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\ZipFolder\bin\Debug\ZipFolder.xml
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\ZipFolder\bin\Debug\Interop.Shell32.dll
+C:\Adlib Express\Scripts\ZipFolder.exe
+C:\Adlib Express\Scripts\ZipFolder.pdb
+C:\Adlib Express\Scripts\ZipFolder.xml
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\ZipFolder\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\ZipFolder\obj\Debug\ZipFolder.Resources.resources
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\ZipFolder\obj\Debug\ZipFolder.vbproj.GenerateResource.Cache
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\ZipFolder\obj\Debug\ZipFolder.exe
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\ZipFolder\obj\Debug\ZipFolder.xml
+C:\Work\Visual Studio Projects\Enterprise\DocumentProcessor\DocumentProcessor\ZipFolder\obj\Debug\ZipFolder.pdb
